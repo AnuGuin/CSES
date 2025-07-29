@@ -1,6 +1,6 @@
-# Increasing Array
-## You are given an array of n integers. You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element.
-## On each move, you may increase the value of any element by one. What is the minimum number of moves required?
+## Increasing Array
+You are given an array of n integers. You want to modify the array so that it is increasing, i.e., every element is at least as large as the previous element.
+On each move, you may increase the value of any element by one. What is the minimum number of moves required?
 
 ## Input
 The first input line contains an integer n: the size of the array.
@@ -15,5 +15,5 @@ Print the minimum number of moves.
 5
 
 ## Constraints
-1 <= n <= 2*10^5
-1 <= x_i <= 10^9
+* 1 <= n <= 2*10^5
+* 1 <= x_i <= 10^9
