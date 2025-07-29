@@ -4,17 +4,11 @@
 $$ 3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rightarrow 2 \rightarrow 1$$  
 Your task is to simulate the execution of the algorithm for a given value of n.  
 
-## Input  
-The only input line contains an integer n.
+## Input:
+3
 
-## Output  
-Print a line that contains all values of n during the algorithm.
+## Output:
+3 10 5 16 8 4 2 1
 
 ## Constraints  
 1 <= n <= 10^6
-
-##Input:
-3
-
-##Output:
-3 10 5 16 8 4 2 1
