@@ -14,12 +14,9 @@ After this, if the division is possible, print an example of how to create the s
 YES
 
 4
-
 1 2 4 7
 
-
 3
-
 3 5 6
 
 ## Constraints
